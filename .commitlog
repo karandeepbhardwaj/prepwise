@@ -1,1 +1,2 @@
 2025-10-03 23:38:04 -0400 fix: handle rate limit retry with backoff
+2025-10-03 18:42:04 -0400 refactor: extract prompt template constants
