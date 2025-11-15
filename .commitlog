@@ -6,3 +6,4 @@
 2025-11-15 13:43:30 -0400 fix: handle missing job description fields
 2025-11-15 18:17:27 -0400 fix: resolve WebSocket reconnection on timeout
 2025-11-15 21:22:28 -0400 refactor: extract URL validation to utility
+2025-11-15 16:48:27 -0400 style: update form input focus ring
