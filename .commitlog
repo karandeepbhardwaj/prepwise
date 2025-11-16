@@ -5,3 +5,4 @@
 2025-11-03 19:18:28 -0400 refactor: simplify chain composition logic
 2025-11-15 13:43:30 -0400 fix: handle missing job description fields
 2025-11-15 18:17:27 -0400 fix: resolve WebSocket reconnection on timeout
+2025-11-15 21:22:28 -0400 refactor: extract URL validation to utility
