@@ -10,3 +10,4 @@
 2025-11-25 22:51:05 -0400 fix: correct Pydantic model optional fields
 2025-12-03 19:42:55 -0400 refactor: consolidate LLM config settings
 2025-12-03 21:49:15 -0400 fix: handle Unicode in scraped job postings
+2025-12-10 19:19:44 -0400 style: improve progress bar animation
