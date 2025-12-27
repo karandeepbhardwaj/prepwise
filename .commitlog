@@ -17,3 +17,4 @@
 2025-12-20 17:08:07 -0400 refactor: extract coaching prompt builder
 2025-12-20 10:38:15 -0400 fix: handle empty response from LLM
 2025-12-23 19:49:38 -0400 style: adjust card layout for long content
+2025-12-26 21:29:43 -0400 fix: resolve CORS config for frontend proxy
